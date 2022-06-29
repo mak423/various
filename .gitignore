@@ -1,0 +1,11 @@
+/target/
+.classpath
+.project
+.settings
+.idea/
+*.iml
+
+#Custom Section
+
+## Ignore BSD test data set
+src/test/resources/BSD/
